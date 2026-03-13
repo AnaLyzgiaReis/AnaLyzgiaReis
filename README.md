@@ -4,7 +4,7 @@
 
 <h1 align="center">𝓐𝓷𝓪𝓛𝔂  ୨୧</h1>
 
-<img align="left" height="150" src="https://s3.ezgif.com/tmp/ezgif-308ab83db419c515.gif" />
+<img align="left" height="150" src="nanagif.gif" />
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaLyzgiaReis&layout=compact&theme=dracula" height="150"/>
