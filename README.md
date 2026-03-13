@@ -1,4 +1,10 @@
-<h2 align="center">𝓐𝓷𝓪𝓛𝔂  ୨୧</h2>
+<h1 align="center">𝓐𝓷𝓪𝓛𝔂  ୨୧</h1>
+
+<img align="left" height="150" src="https://s3.ezgif.com/tmp/ezgif-308ab83db419c515.gif" />
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaLyzgiaReis&layout=compact&theme=dracula" height="150"/>
+</div>
 
 <div align="left">
   <a href="https://www.instagram.com/lyazzz.s?igsh=YTIzYXJ1emVyMWFs&utm_source=qr" target="_blank">
@@ -8,11 +14,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=pink&logoColor=white&labelColor=pink&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaLyzgiaReis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-<img align="right" height="150" src="https://s3.ezgif.com/tmp/ezgif-308ab83db419c515.gif" />
