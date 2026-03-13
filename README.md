@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.pfps.gg/banners/26490-nopulse.gif" width="1000" height="150">
+</div>
+
 <h1 align="center">𝓐𝓷𝓪𝓛𝔂  ୨୧</h1>
 
 <img align="left" height="150" src="https://s3.ezgif.com/tmp/ezgif-308ab83db419c515.gif" />
