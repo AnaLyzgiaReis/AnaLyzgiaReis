@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/lyazzz.s?igsh=YTIzYXJ1emVyMWFs&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="twitch.tv/ambidusida" target="_blank">
+  <a href="https://www.twitch.tv/ambidusida" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=pink&logoColor=white&labelColor=pink&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
