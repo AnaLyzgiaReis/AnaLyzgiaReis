@@ -4,9 +4,8 @@
 
 <h1 align="center">𝓐𝓷𝓪𝓛𝔂  ୨୧</h1>
 
-<img align="left" height="150" src="nanagif.gif" />
-
 <div align="left">
+  <img align="center" height="150" src="nanagif.gif" />
   <a href="https://www.instagram.com/lyazzz.s?igsh=YTIzYXJ1emVyMWFs&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
