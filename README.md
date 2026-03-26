@@ -6,9 +6,6 @@
 
 <img align="left" height="150" src="nanagif.gif" />
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaLyzgiaReis&layout=compact&theme=dracula" height="150"/>
-</div>
 
 <div align="left">
   <a href="https://www.instagram.com/lyazzz.s?igsh=YTIzYXJ1emVyMWFs&utm_source=qr" target="_blank">
